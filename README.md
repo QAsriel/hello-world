@@ -1,3 +1,4 @@
 # hello-world
 a new repository
- read you.
+ read you
+ and  have write sth for you.
